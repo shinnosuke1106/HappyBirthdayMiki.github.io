@@ -12,10 +12,10 @@
   }
 }
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 550px){
 
   .logo{
-    width: 670px;
+    width: 550px;
   }
 .l-sec2-bgFull {
     padding-top: 6rem;
